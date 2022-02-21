@@ -1,0 +1,21 @@
+teams:
+  team1:
+    player1:
+      player_id: 473638461
+      player_name: Mukesh sahu
+    player2:
+      player_id: 473638462
+      player_name: sunil banjar
+    player3:
+      player_id: null
+      player_name: null
+  team2:
+    player1:
+      player_id: 473638463
+      player_name: rajat mahi
+    player2:
+      player_id: 473638464
+      player_name: Sohil Kal
+    player3:
+      player_id: null
+      player_name: null

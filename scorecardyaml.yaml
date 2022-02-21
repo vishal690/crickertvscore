@@ -1,0 +1,49 @@
+meta:
+  innings_completed: 3
+  deliveries_completed: 23
+  created: 1640946895
+info:
+  no_of_players: 4
+  total_overs: 4
+  toss_winner: "\u0905\u092A\u0928\u0940 \u0917\u0932\u0940"
+  decision: BOWL
+  outcome:
+    t1i1_score: 66
+    t1i1_wicket: 1
+    t1i1_overs: '4.0'
+    t2i1_score: 68
+    t2i1_wicket: 1
+    t2i1_overs: '4.0'
+    t1i2_score: 36
+    t1i2_wicket: 2
+    t1i2_overs: '2.2'
+    t2i2_score: 38
+    t2i2_wicket: 1
+    t2i2_overs: '3.5'
+    result_type: 2
+    winner_team_id: 1
+    win_margin_runs: 4
+    win_margin_balls_left: 1
+    win_margin_wickets_left: 1
+    innings_win: 0
+    star: null
+  overs: 4
+  innings: 4
+  current_score: 38
+  current_wic: 1
+  current_valid_ball: 23
+  bat_team_name: Mukesh  & sunil b
+  curr_batsman: 473638461
+  curr_bowler: 473638464
+  runs_curr_bat: 14
+  bowls_curr_bat: 12
+  runs_curr_bow: 19
+  bowls_curr_bow: 11
+  wics_curr_bow: 1
+  curr_out_type_id: 0
+  curr_ball_run: 6
+  batteam1: "\u092C\u093E\u091C\u0942 \u0917\u0932\u0940"
+  batteam2: "\u0905\u092A\u0928\u0940 \u0917\u0932\u0940"
+  nb_wd_con: '  '
+  current_cf: 0
+  prob_after: 0.99
